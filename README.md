@@ -1,11 +1,8 @@
-# Welcome to the NYIT SoAD Fabrication Lab Resource Page!
+## This is a duplicate site for making/working with templates. It is not updated actively and does not represent the NYIT FAB LAB currnet status
 
+- June 2026 Elijah Williams 
 
-
-
-_Use this page to access any and all resources for the SoAD Fabrication Lab._
-
-_If you have any questions, feel free to come see us in the lab during open hours._
+# Formatting and example links:
 
 
 ## Lab Rules 
