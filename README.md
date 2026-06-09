@@ -47,21 +47,9 @@ Sounds hard, but we are almost done.
 
 ## Fab Lab Machine Pages
 
-[Laser Cutting](LaserCutters/README.md)
-
 [3D Printing](3Dprinters/README.md)
 
 [CNC Machining](CNCmills/README.md)
-
-[Wood Shop](ShopTools/README.md)
-
-[Robot Lab](RobotLab/README.md)
-
-[Plot Shop](PlotShop/README.md)
-
-[Vacuum Forming](VacuumForming/README.md)
-
-[Carvey Mini CNC Machine](CarveyMiniCNC/README.md)
 
 
 ## Quick Links For Students
