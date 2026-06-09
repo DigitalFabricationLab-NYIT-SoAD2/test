@@ -4,6 +4,31 @@
 
 # Formatting and example links:
 
+If you have successfully used this file as a template repo, well done!
+
+You have 2 more steps.
+### 1. Turn on Github Pages and Create your Auto Deploying Changes workflow.
+
+Sounds hard, but we are almost done.
+
+## Set your Source as Github Actions (red box #1)
+
+## Click Configure with Jekyll (red box #2)
+
+<img width="1328" height="783" alt="{B7908892-E989-415E-87F1-BA707898BE27}" src="https://github.com/user-attachments/assets/4ba2f911-0f06-4550-9a31-d1b5654a6a9c" />
+
+## Click Commit Changes and then deploy.
+
+<img width="1037" height="526" alt="{9023622A-4835-49A9-A5B5-01F19302866A}" src="https://github.com/user-attachments/assets/7c27b87d-37bc-4305-bc96-1493cc857014" />
+
+## You are done! Now visit your site here:
+
+<img width="884" height="437" alt="{5B8D16DA-28C9-4E81-8374-F2A640A1EEB1}" src="https://github.com/user-attachments/assets/a182a5a0-e45d-4137-903a-df5b2e057368" />
+
+
+### 2. Make and push your first edit
+
+# Formatting and example links:
 
 ## Lab Rules 
   
