@@ -1,0 +1,85 @@
+
+
+# Laser Cutting
+
+**Students can use the SoAD Fab Lab's Epilog laser cutters by signing up for a laser cutting appointment and following all guidelines below.**
+
+Reminders:
+* Laser Cutting Training is required for _all students_ who plan on laser cutting during the Fall 2024 semester.
+
+* Laser Cutting appointments are available for students from Second Year Undergrad through the Master's Program.
+
+* Laser Cutting cardboard is now *banned*.
+
+
+## SoAD Fab Lab Laser Cutting Process / Standards
+
+
+### Required Orientation / Training
+  
+* Students *without* a SoAD Lab Sticker must come into the lab to sign a waiver before gaining access to any NYIT SoAD Labs.
+   
+* Students must complete the Laser Cutting Training. This can be done in a _group training_ pre-organized by a faculty member or in an _individual training_ during a student's first appointment.
+
+### Laser Cutting Appointments
+
+**General Information**
+
+* One appointment reserves one laser cutter for 25 minutes
+  
+* If a student is signing up for their first Laser Cutting Appointment, they will be required to dedicate 15-20 minutes of their appointment to training with a Student Worker
+      
+* Students are responsible for bringing their prepped Rhino file on a USB and material cut-to-size to their laser cutting appointment.
+  
+  * The more a student prepares before their appointment, the more time can be spent laser cutting during their appointment.
+  
+* Students are required to be finished cutting and cleaning up by the end of their appointment time.
+* Students may purchase a maximum of 6 sheets of material a day for their cut appointment(s). *For topography models that require many sheets of material, please purchase from elsewhere (Blick), then cut it down to size yourself using our large sheet material cutters outside the lab.*
+  
+**Cancellations / No-Shows**
+
+* Students can cancel appointments up to 2 hours before scheduled laser cut time.
+  
+* Appointments will be cancelled if student does not show up 10 minutes into their appointment time.
+
+**Materials**
+
+* Approved Materials:
+   * Acrylic
+   * Basswood
+   * Chipboard
+   * Matboard
+   * Museum Board
+   * Paper
+
+* Maximum material size: 32 in x 20 in x ¼ in
+     
+* If students are providing their own material, it must:
+   * Have the original material sticker/label to verify the material type
+   * Be on the approved materials list (if students are interested in laser cutting material that is not on the list, they can come into the lab and ask a staff member before their laser cutting appointment)
+   * Be cut to the correct size
+   
+* If students are planning to purchase material from the lab, they must:
+   * Use the [_How to Purchase Material from the Lab Guide_](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
+
+**Appointment Bookings**
+
+* We recommend all students to use the [Laser Cutting Template](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/) when prepping for laser appointments.
+  
+* Students who are laser cutting for the first time should review the *Laser Cutting Simulation* for machines on their campus: [NYC](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/IQCI1JP3JLvcQKZlFcDpnrfEAW0Md4uGTPzmzKSbPT5bpq4?download=1) / [OW](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/IQBlaVhrIadNT7DGRg8nPIGkASvLYV2CP9Ufg2aPPtnKkzc?download=1) 
+
+* All appointment scheduling links are on the [Appointments and File Submissions Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
+
+## Laser Cutting Helpful Resources
+
+* [Templates / Tutorials Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/)
+  
+* Want to make a model that looks like this? ↓
+  
+  ![waffle](https://github.com/user-attachments/assets/9fa8418c-ab1e-4dc3-88cd-f9cedbc818db)
+
+  Try this [waffle modeling grasshopper script](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQBnQdvtKZiNQYbSmpPQEliPATk1yFJh0d7qcp6QZR3r9k4?download=1)
+
+___
+  
+[Take Me Back Home](https://digitalfabricationlab-nyit-soad.github.io/resources/) - [3D Printing](https://digitalfabricationlab-nyit-soad.github.io/resources/3Dprinters/) - [CNC Machining](https://digitalfabricationlab-nyit-soad.github.io/resources/CNCmills/) - [Wood Shop](https://digitalfabricationlab-nyit-soad.github.io/resources/ShopTools/)  
