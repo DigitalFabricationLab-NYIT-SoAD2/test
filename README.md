@@ -62,11 +62,6 @@ Sounds hard, but we are almost done.
 
 ## Hours 
 
-**Manhattan** - 
-Monday - Friday: 10am-5pm
-
-**Old Westbury** - 
-Monday - Friday: 10am-5pm
 
 ## About Us
 
